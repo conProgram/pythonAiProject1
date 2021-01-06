@@ -117,7 +117,7 @@ class Bird:
 #Creation of the pipes 
 class Pipe:
     
-    GAP = 150 #Size of gap between pipes
+    GAP = 180 #Size of gap between pipes
     VEL = 5 #Speed of pipe creation
 
     def __init__(self, x):

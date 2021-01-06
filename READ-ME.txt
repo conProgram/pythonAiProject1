@@ -1,0 +1,12 @@
+This Project is a AI learning to play the mobile game Flappy Bird to perfection using Python.
+
+In this project I made the game slightly harder for the computer by reducing the size of the gaps between pipes from the orginal game.
+
+The AI works by trying random combinations of movements to learn which is the best to survive the longest, each time a generation passes
+more birds are born using similar characteristics to the most efficient birds from the previous generation. This eventually creates a generation of 
+perfect birds who never die.
+
+There are 100 birds at the start of every generation.
+
+
+Thankyou to TechWithTim for the tutorial and NEAT-PYTHON for this project
