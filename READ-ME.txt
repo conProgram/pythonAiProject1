@@ -10,3 +10,5 @@ There are 100 birds at the start of every generation.
 
 
 Thankyou to TechWithTim for the tutorial and NEAT-PYTHON for this project
+
+Youtube vid of project working here -  https://youtu.be/Tet8jDeAfng
